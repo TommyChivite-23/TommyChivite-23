@@ -4,10 +4,11 @@ I'm Tommy Chivite, a developer passionate about creating and crafting immersive 
 
 
 ## Skills:
-* :video_game:: Unity, C# 
-* :art:: Blender
-* :computer:: React, React Native
-* :chart_with_upwards_trend:: R, Python
+* :video_game:: `Unity` `C#` 
+* :art:: `Blender`
+* :computer:: `React` `React Native`
+* :chart_with_upwards_trend:: `R` `Python`
+* **Version Control:** `Git` `GitLab` `Bitbucket`
   
 ## Currently:
 
@@ -17,6 +18,7 @@ I'm Tommy Chivite, a developer passionate about creating and crafting immersive 
 - 📫 How to reach me: For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/tommy-chivite/)
 - ⚡ Fun fact: Love anime, huge "Football" fan and lately I've been reality into CrossFit  
 
+## Contact:
 
 
 
