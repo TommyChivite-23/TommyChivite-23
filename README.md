@@ -12,9 +12,8 @@ I'm Tommy Chivite, a developer passionate about creating and crafting immersive 
   
 ## Currently:
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page 
 - 🌱 I’m currently learning Unreal Engine 
-- 👯 I’m looking to collaborate on a VR Health Plan project to enhace medical trianing. 
 - 📫 How to reach me: For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/tommy-chivite/)
 - ⚡ Fun fact: Love anime, huge "Football" fan and lately I've been reality into CrossFit  
 
