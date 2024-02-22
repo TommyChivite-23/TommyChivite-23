@@ -6,7 +6,7 @@ I'm Tommy Chivite, a developer passionate about creating and crafting immersive 
 ## Skills:
 * :video_game:: `Unity` `C#` 
 * :art:: `Blender`
-* :computer:: `React` `React Native`
+* :computer:: `React` 
 * :chart_with_upwards_trend:: `R` `Python`
 * :card_file_box: `Git` `GitLab` `Bitbucket`
   
