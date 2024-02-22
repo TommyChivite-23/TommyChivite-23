@@ -8,7 +8,7 @@ I'm Tommy Chivite, a developer passionate about creating and crafting immersive 
 * :art:: `Blender`
 * :computer:: `React` `React Native`
 * :chart_with_upwards_trend:: `R` `Python`
-* **Version Control:** `Git` `GitLab` `Bitbucket`
+* :card_file_box: `Git` `GitLab` `Bitbucket`
   
 ## Currently:
 
