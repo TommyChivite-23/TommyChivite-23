@@ -1,5 +1,4 @@
 
-
 ### Hi there 👋
 #### Game Developer
 I'm Tommy Chivite, a developer passionate about creating and crafting immersive digital experiences. My own journey started right there in the heart of cinematic magic, where technology and storytelling blend into one. Howwever, it was that pivotal moment when I first slipped on a VR headset that my world  was truly transformed. Suddenly, my childhood fascination melded into a passion for Virtual Reality. This experience ignited my passion for Game Development and Virtual Reality, allowing me to reconnect with the boundless curiosity and wonder of my childhood, propelling me to explore and create experiences beyond the ordinary.
