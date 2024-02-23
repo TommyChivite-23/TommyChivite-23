@@ -1,4 +1,4 @@
-![Profile Banner](.backgroundPicture.webp)
+![Profile Banner](.file:///C:/Users/Txomin%20Chivite/Desktop/backgroundPicture.webp)
 
 ### Hi there 👋
 #### Game Developer
