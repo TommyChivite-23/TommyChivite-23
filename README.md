@@ -1,3 +1,4 @@
+![Profile Banner](.backgroundPicture.webp)
 
 ### Hi there 👋
 #### Game Developer
